@@ -1,0 +1,24 @@
+{
+	"name": "ramdom-str-msg-course-platzi",
+	"version": "1.0.0",
+	"description": "Random String Messages",
+	"main": "index.js",
+	"bin": {
+		"ramdom-str-msg-course-platzi": "bin/global.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GaleedGutierrez/ramdom-str-msg-course-platzi.git"
+	},
+	"keywords": [],
+	"author": "Galeed Gutierrez <galeedeveloper@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GaleedGutierrez/ramdom-str-msg-course-platzi/issues"
+	},
+	"homepage": "https://github.com/GaleedGutierrez/ramdom-str-msg-course-platzi#readme",
+	"preferGlobal": true
+}
