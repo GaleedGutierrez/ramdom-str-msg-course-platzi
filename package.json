@@ -1,10 +1,10 @@
 {
-	"name": "ramdom-str-msg-course-platzi",
+	"name": "random-str-msg-course-platzi",
 	"version": "1.0.0",
 	"description": "Random String Messages",
 	"main": "index.js",
 	"bin": {
-		"ramdom-str-msg-course-platzi": "bin/global.js"
+		"random-str-msg-course-platzi": "./bin/global.js"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,8 @@
 		"url": "https://github.com/GaleedGutierrez/ramdom-str-msg-course-platzi/issues"
 	},
 	"homepage": "https://github.com/GaleedGutierrez/ramdom-str-msg-course-platzi#readme",
-	"preferGlobal": true
+	"preferGlobal": true,
+	"dependencies": {
+		"g": "^2.0.1"
+	}
 }
